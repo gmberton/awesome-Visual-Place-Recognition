@@ -1,0 +1,6 @@
+@article{Geiger_2013_kitti,
+  title={Vision meets robotics: The KITTI dataset},
+  author={A Geiger and P Lenz and C Stiller and R Urtasun},
+  journal={The International Journal of Robotics Research},
+  year={2013},
+}

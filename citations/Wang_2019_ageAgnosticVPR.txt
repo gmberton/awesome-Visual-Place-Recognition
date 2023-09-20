@@ -1,0 +1,6 @@
+@inproceedings{Wang_2019_ageAgnosticVPR,
+  title={Attention-Aware Age-Agnostic Visual Place Recognition},
+  author={Wang, Ziqi and Li, Jiahui and Khademi, Seyran and van Gemert, Jan},
+  booktitle={IEEE International Conference on Computer Vision (ICCV) Workshops},
+  year={2019},
+}

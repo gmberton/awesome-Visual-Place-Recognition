@@ -1,0 +1,6 @@
+@inproceedings{Berton_2022_benchmark_berton,
+  title={Deep Visual Geo-localization Benchmark},
+  author={Berton, Gabriele and Mereu, Riccardo and Trivigno, Gabriele and Masone, Carlo and Csurka, Gabriela and Sattler, Torsten and Caputo, Barbara},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022},
+}

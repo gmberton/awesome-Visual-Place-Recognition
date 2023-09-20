@@ -1,0 +1,6 @@
+@inproceedings{Yildiz_2022_AmsterTime,
+  title={AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift},
+  author={B. Yildiz and S. Khademi and R. Siebes and J. Van Gemert},
+  booktitle={International Conference on Pattern Recognition (ICPR)},
+  year={2022},
+}

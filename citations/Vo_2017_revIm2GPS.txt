@@ -1,0 +1,6 @@
+@inproceedings{Vo_2017_revIm2GPS,
+  title={Revisiting IM2GPS in the Deep Learning Era},
+  author={Vo, Nam and Jacobs, Nathan and Hays, James},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
+  year={2017},
+}

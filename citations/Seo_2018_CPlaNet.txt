@@ -1,0 +1,6 @@
+@inproceedings{Seo_2018_CPlaNet,
+  title={CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps},
+  author={Paul Hongsuck Seo and Tobias Weyand and Jack Sim and Bohyung Han},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2018},
+}

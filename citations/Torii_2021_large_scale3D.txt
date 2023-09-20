@@ -1,0 +1,6 @@
+@article{Torii_2021_large_scale3D,
+  title={Are Large-Scale 3D Models Really Necessary for Accurate Visual Localization?},
+  author={A. Torii and Hajime Taira and Josef Sivic and M. Pollefeys and M. Okutomi and T. Pajdla and Torsten Sattler},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)},
+  year={2021},
+}

@@ -1,0 +1,6 @@
+@article{Liu_2021_densernet,
+  title={DenserNet: Weakly Supervised Visual Localization Using Multi-scale Feature Aggregation},
+  author={Liu, Dongfang and Cui, Yiming and Yan, Liqi and Mousas, Christos and Yang, Baijian and Chen, Yingjie},
+  journal={Association for the Advancement of Artificial Intelligence (AAAI)},
+  year={2021},
+}

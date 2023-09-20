@@ -1,0 +1,6 @@
+@inproceedings{Knopp_2010_geotagged_streetview,
+  title={Avoiding confusing features in place recognition},
+  author={Knopp, J. and Sivic, J. and Pajdla, T.},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2010},
+}

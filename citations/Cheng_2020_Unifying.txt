@@ -1,0 +1,6 @@
+@article{Cheng_2020_Unifying,
+  title={Unifying Visual Localization and Scene Recognition for People With Visual Impairment},
+  author={R. {Cheng} and K. {Wang} and J. {Bai} and Z. {Xu},
+  journal={IEEE Access},
+  year={2020},
+}

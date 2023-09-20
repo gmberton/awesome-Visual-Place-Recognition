@@ -1,0 +1,6 @@
+@article{Zhang_2021_Survey,
+  title={Visual place recognition: A survey from deep learning perspective},
+  author={Xiwu Zhang and Lei Wang and Yan Su},
+  journal={Pattern Recognition},
+  year={2021},
+}

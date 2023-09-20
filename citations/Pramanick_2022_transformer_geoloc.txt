@@ -1,0 +1,6 @@
+@inproceedings{Pramanick_2022_transformer_geoloc,
+  title={Where in the World is this Image? Transformer-based Geo-localization in the Wild},
+  author={Pramanick, Shraman and Nowara, Ewa M and Gleason, Joshua and Castillo, Carlos D and Chellappa, Rama},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2022},
+}

@@ -1,0 +1,6 @@
+@inproceedings{Cummins_2009_eynsham,
+  title={Highly scalable appearance-only SLAM - FAB-MAP 2.0},
+  author={M. Cummins and P. Newman},
+  booktitle={Robotics: Science and Systems (RSS)},
+  year={2009},
+}

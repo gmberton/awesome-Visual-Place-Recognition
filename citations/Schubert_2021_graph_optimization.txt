@@ -1,0 +1,9 @@
+@inproceedings{Schubert_2021_graph_optimization,
+  title = {Fast and Memory Efficient Graph Optimization via ICM for Visual Place Recognition},
+  author = {Schubert, Stefan and Neubert, Peer and Protzel, Peter},
+  booktitle={Robotics: Science and Systems (RSS)},
+  year = {2021},
+  month = {07},
+  pages = {},
+  doi = {10.15607/RSS.2021.XVII.091}
+}

@@ -1,0 +1,6 @@
+@article{Garg_2021_Survey,
+  title={Where is your place, Visual Place Recognition?},
+  author={Sourav Garg and Tobias Fischer and Michael Milford},
+  journal={ArXiv},
+  year={2021},
+}

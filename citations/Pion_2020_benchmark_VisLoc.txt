@@ -1,0 +1,6 @@
+@inproceedings{Pion_2020_benchmark_VisLoc,
+  title={Benchmarking Image Retrieval for Visual Localization},
+  author={Pion, Noe and Humenberger, Martin and Csurka, Gabriela and Cabon, Yohann and Sattler, Torsten},
+  booktitle={INTERNATIONAL CONFERENCE ON 3D VISION (3DV)},
+  year={2020},
+}

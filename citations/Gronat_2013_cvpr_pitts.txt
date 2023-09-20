@@ -1,0 +1,6 @@
+@inproceedings{Gronat_2013_cvpr_pitts,
+  title={Learning and Calibrating Per-Location Classifiers for Visual Place Recognition},
+  author={Gronat, Petr and Obozinski, Guillaume and Sivic, Josef and Pajdla, Tomá},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2013},
+}

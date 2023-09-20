@@ -1,0 +1,6 @@
+@article{Zamir_2014_102k_streetview,
+  title={Image Geo-localization Based on Multiple Nearest Neighbor Feature Matching using Generalized Graphs},
+  author={Zamir, A.R. and Shah, M.},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)},
+  year={2014},
+}

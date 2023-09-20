@@ -1,0 +1,6 @@
+@article{Yin_2022_GeneralPR,
+  title={General Place Recognition Survey: Towards the Real-world Autonomy Age},
+  author={Peng Yin and Shiqi Zhao and Ivan Cisneros and Abulikemu Abuduweili and Guoquan Paul Huang and Micheal Milford and Changliu Liu and Howie Choset and Sebastian A. Scherer},
+  journal={ArXiv},
+  year={2022},
+}

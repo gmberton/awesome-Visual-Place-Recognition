@@ -1,0 +1,6 @@
+@inproceedings{Wang_2022_TransVPR,
+  title={TransVPR: Transformer-Based Place Recognition With Multi-Level Attention Aggregation},
+  author={Wang, Ruotong and Shen, Yanqing and Zuo, Weiliang and Zhou, Sanping and Zheng, Nanning},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022},
+}

@@ -1,0 +1,6 @@
+@inproceedings{Weyand_2020_gldv2,
+  title={Google Landmarks Dataset v2 – A Large-Scale Benchmark for Instance-Level Recognition and Retrieval},
+  author={Tobias Weyand and A. Ara{'u}jo and Bingyi Cao and Jack Sim},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2020},
+}

@@ -1,0 +1,6 @@
+@article{Zhang_2021_gated_netvlad,
+  title={Vector of Locally and Adaptively Aggregated Descriptors for Image Feature Representation},
+  author={Jian Zhang and Yunyin Cao and Qun Wu},
+  journal={Pattern Recognition},
+  year={2021},
+}

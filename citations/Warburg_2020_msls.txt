@@ -1,0 +1,6 @@
+@inproceedings{Warburg_2020_msls,
+  title={Mapillary Street-Level Sequences: A Dataset for Lifelong Place Recognition},
+  author={Warburg, Frederik and Hauberg, Soren and Lopez-Antequera, Manuel and Gargallo, Pau and Kuang, Yubin and Civera, Javier},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2020},
+}

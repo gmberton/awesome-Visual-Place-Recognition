@@ -1,0 +1,6 @@
+@inproceedings{Hays_2008_im2gps,
+  title={im2gps: estimating geographic information from a single image},
+  author={James Hays and Alexei A. Efros},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2008},
+}

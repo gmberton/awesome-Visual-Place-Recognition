@@ -1,0 +1,6 @@
+@inproceedings{Revaud_2019_r2d2,
+  title={R2D2: Repeatable and Reliable Detector and Descriptor},
+  author={Jerome Revaud and Philippe Weinzaepfel and C{'{e}}sar Roberto de Souza and Martin Humenberger},
+  booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+  year={2019},
+}

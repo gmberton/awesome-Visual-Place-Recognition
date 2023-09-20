@@ -1,0 +1,6 @@
+@article{Masone_2021_survey,
+  title={A Survey on Deep Visual Place Recognition},
+  author={Masone, Carlo and Caputo, Barbara},
+  journal={IEEE Access},
+  year={2021},
+}

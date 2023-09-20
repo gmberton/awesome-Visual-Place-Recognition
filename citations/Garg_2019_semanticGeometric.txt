@@ -1,0 +1,6 @@
+@article{Garg_2019_semanticGeometric,
+  title={Semantic–geometric visual place recognition: a new perspective for reconciling opposing views},
+  author={S. Garg and N. Suenderhauf and M. Milford},
+  journal={The International Journal of Robotics Research},
+  year={2019},
+}

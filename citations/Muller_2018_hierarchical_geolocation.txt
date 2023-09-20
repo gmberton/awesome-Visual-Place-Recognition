@@ -1,0 +1,6 @@
+@inproceedings{Muller_2018_hierarchical_geolocation,
+  title={Geolocation Estimation of Photos Using a Hierarchical Model and Scene Classification},
+  author={Muller-Budack, Eric and Pustu-Iren, Kader and Ewerth, Ralph},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2018},
+}

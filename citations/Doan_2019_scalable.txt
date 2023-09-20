@@ -1,0 +1,6 @@
+@inproceedings{Doan_2019_scalable,
+  title={Scalable Place Recognition Under Appearance Change for Autonomous Driving},
+  author={A. D. Doan and Y. Latif and T.-J. Chin and Y. Liu and T.-T. Do and I. Reid},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
+  year={2019},
+}

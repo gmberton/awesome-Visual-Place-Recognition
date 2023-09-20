@@ -1,0 +1,6 @@
+@article{Keetha_2023_AnyLoc,
+  title={AnyLoc: Towards Universal Visual Place Recognition},
+  author={Nikhil Keetha and Avneesh Mishra and Jay Karhade and Krishna Murthy Jatavallabhula and Sebastian Scherer and Madhava Krishna and Sourav Garg},
+  journal={arXiv},
+  year={2023},
+}

@@ -1,0 +1,6 @@
+@inproceedings{Fuwen_2021_reranking_transformers,
+  title={Instance-level Image Retrieval using Reranking Transformers},
+  author={Fuwen Tan and Jiangbo Yuan and Vicente Ordonez},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
+  year={2021},
+}

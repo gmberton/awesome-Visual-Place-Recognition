@@ -1,0 +1,6 @@
+@inproceedings{Sattler_2012_aachen,
+  title={Image retrieval for image-based localization revisited},
+  author={Torsten Sattler and Tobias Weyand and Bastian Leibe and Leif Kobbelt},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2012},
+}

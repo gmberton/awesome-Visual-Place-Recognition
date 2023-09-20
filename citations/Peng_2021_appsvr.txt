@@ -1,0 +1,6 @@
+@inproceedings{Peng_2021_appsvr,
+  title={Attentional Pyramid Pooling of Salient Visual Residuals for Place Recognition},
+  author={Peng, Guohao and Zhang, Jun and Li, Heshan and Wang, Danwei},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
+  year={2021},
+}

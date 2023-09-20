@@ -1,0 +1,6 @@
+@inproceedings{Ros_2016_synthia,
+  title={The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes},
+  author={G. Ros and L. Sellart and J. Materzynska and D. Vazquez and Lopez and M. Antonio},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2016},
+}

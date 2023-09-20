@@ -1,0 +1,6 @@
+@inproceedings{Zhu_2018_apanet,
+  title={Attention-based Pyramid Aggregation Network for Visual Place Recognition},
+  author={Yingying Zhu and Jiong Wang and Lingxi Xie and Liang Zheng},
+  booktitle={ACM Multimedia},
+  year={2018},
+}

@@ -1,0 +1,6 @@
+@inproceedings{Alibey_2023_mixvpr,
+  title={MixVPR: Feature Mixing for Visual Place Recognition},
+  author={Ali-bey, Amar and Chaib-draa, Brahim and Giguere, Philippe},
+  booktitle={IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  year={2023},
+}

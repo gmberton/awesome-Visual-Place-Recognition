@@ -1,0 +1,6 @@
+@article{CarlevarisBianco_2016_nclt,
+  title={University of Michigan North Campus long-term vision and lidar dataset},
+  author={N. {Carlevaris-Bianco} and A. K. Ushani and R. M. Eustice},
+  journal={The International Journal of Robotics Research},
+  year={2016},
+}

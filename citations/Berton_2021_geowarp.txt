@@ -1,0 +1,6 @@
+@inproceedings{Berton_2021_geowarp,
+  title={Viewpoint Invariant Dense Matching for Visual Geolocalization},
+  author={Berton, Gabriele and Masone, Carlo and Paolicelli, Valerio and Caputo, Barbara},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
+  year={2021},
+}

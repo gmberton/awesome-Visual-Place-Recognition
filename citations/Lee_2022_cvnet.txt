@@ -1,0 +1,6 @@
+@inproceedings{Lee_2022_cvnet,
+  title={Correlation Verification for Image Retrieval},
+  author={Lee, Seongwon and Seong, Hongje and Lee, Suhyeon and Kim, Euntai},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022},
+}

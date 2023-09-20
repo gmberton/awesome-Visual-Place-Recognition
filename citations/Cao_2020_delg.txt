@@ -1,0 +1,6 @@
+@inproceedings{Cao_2020_delg,
+  title={Unifying Deep Local and Global Features for Image Search},
+  author={B. Cao and A. Araujo and J. Sim},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2020},
+}

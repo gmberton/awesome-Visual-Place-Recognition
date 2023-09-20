@@ -1,0 +1,6 @@
+@article{Milford_2008_st_lucia,
+  title={Mapping a Suburb With a Single Camera Using a Biologically Inspired SLAM System},
+  author={Michael Milford and G. Wyeth},
+  journal={IEEE Transactions on Robotics},
+  year={2008},
+}

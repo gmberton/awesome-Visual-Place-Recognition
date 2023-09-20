@@ -1,0 +1,6 @@
+@inproceedings{Peng_2021_sralNet,
+  title={Semantic Reinforced Attention Learning for Visual Place Recognition},
+  author={Guohao Peng and Yufeng Yue and Jun Zhang and Zhenyu Wu and Xiaoyu Tang and Danwei Wang},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2021},
+}

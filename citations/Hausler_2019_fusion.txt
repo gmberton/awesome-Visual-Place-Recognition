@@ -1,0 +1,6 @@
+@article{Hausler_2019_fusion,
+  title={Multi-Process Fusion: Visual Place Recognition Using Multiple Image Processing Methods},
+  author={S. {Hausler} and A. {Jacobson} and M. {Milford},
+  journal={IEEE Robotics and Automation Letters (RAL)},
+  year={2019},
+}

@@ -1,0 +1,6 @@
+@article{Leyvavallina_2021_gcl,
+  title={Data-efficient Large Scale Place Recognition with Graded Similarity Supervision},
+  author={María Leyva-Vallina and Nicola Strisciuglio and Nicolai Petkov},
+  journal={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023},
+}

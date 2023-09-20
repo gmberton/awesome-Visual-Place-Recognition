@@ -1,0 +1,6 @@
+@inproceedings{Paolicelli_2022_Semantic_VPR,
+  title={Learning Semantics for Visual Place Recognition through Multi-Scale Attention},
+  author={Paolicelli, Valerio and Tavera, Antonio and Masone, Carlo and Berton, Gabriele and Caputo, Barbara},
+  booktitle={International Conference on Image Analysis and Processing (ICIAP)},
+  year={2022},
+}

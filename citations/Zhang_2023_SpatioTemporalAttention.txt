@@ -1,0 +1,6 @@
+@article{Zhang_2023_SpatioTemporalAttention,
+  title={Learning Sequence Descriptor based on Spatio-Temporal Attention for Visual Place Recognition},
+  author={Fenglin Zhang and Junqiao Zhao and Yingfeng Cai and Gengxuan Tian and Wenjie Mu and Chen Ye},
+  journal={ArXiv},
+  year={2023},
+}

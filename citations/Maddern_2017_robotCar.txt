@@ -1,0 +1,6 @@
+@article{Maddern_2017_robotCar,
+  title={1 Year, 1000km: The Oxford RobotCar Dataset},
+  author={W. Maddern and G. Pascoe and C. Linegar and P. Newman},
+  journal={The International Journal of Robotics Research},
+  year={2017},
+}

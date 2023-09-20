@@ -1,0 +1,6 @@
+@inproceedings{Dusmanu_2019_D2Net,
+  title={D2-Net: A Trainable CNN for Joint Detection and Description of Local Features},
+  author={Dusmanu, Mihai and Rocco, Ignacio and Pajdla, Tomas and Pollefeys, Marc and Sivic, Josef and Torii, Akihiko and Sattler, Torsten},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2019},
+}

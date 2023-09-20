@@ -1,0 +1,6 @@
+@inproceedings{Asha_2019_todaygan,
+  title={Night-to-day image translation for retrieval-based localization},
+  author={Anoosheh, Asha and Sattler, Torsten and Timofte, Radu and Pollefeys, Marc and Van Gool, Luc},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2019},
+}

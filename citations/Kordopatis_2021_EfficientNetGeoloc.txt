@@ -1,0 +1,6 @@
+@article{Kordopatis_2021_EfficientNetGeoloc,
+  title={Leveraging EfficientNet and Contrastive Learning for Accurate Global-scale Location Estimation},
+  author={Giorgos Kordopatis-Zilos and Panagiotis Galopoulos and S. Papadopoulos and Y. Kompatsiaris},
+  journal={ACM International Conference on Multimedia Retrieval (ICMR)},
+  year={2021},
+}

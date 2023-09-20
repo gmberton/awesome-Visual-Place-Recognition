@@ -1,0 +1,6 @@
+@inproceedings{Berton_2021_svox,
+  title={Adaptive-Attentive Geolocalization From Few Queries: A Hybrid Approach},
+  author={Berton, Gabriele and Paolicelli, Valerio and Masone, Carlo and Caputo, Barbara},
+  booktitle={IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  year={2021},
+}

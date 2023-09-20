@@ -1,0 +1,6 @@
+@inproceedings{Kim_2017_crn,
+  title={Learned Contextual Feature Reweighting for Image Geo-Localization},
+  author={Kim, Hyo Jin and Dunn, Enrique and Frahm, Jan-Michael},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2017},
+}

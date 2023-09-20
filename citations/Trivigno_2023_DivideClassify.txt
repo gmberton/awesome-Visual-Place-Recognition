@@ -1,0 +1,6 @@
+@inproceedings{Trivigno_2023_DivideClassify,
+  title={Divide&Classify: Fine-Grained Classification for City-Wide Visual Geo-localization},
+  author={Trivigno, Gabriele and Berton, Gabriele and Masone, Carlo and Caputo, Barbara},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
+  year={2023},
+}

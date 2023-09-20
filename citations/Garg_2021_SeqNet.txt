@@ -1,0 +1,6 @@
+@article{Garg_2021_SeqNet,
+  title={SeqNet: Learning Descriptors for Sequence-based Hierarchical Place Recognition},
+  author={Garg, Sourav and Milford, Michael},
+  journal={IEEE Robotics and Automation Letters},
+  year={2021},
+}

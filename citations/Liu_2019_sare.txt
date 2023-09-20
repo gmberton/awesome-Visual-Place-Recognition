@@ -1,0 +1,6 @@
+@inproceedings{Liu_2019_sare,
+  title={Stochastic Attraction-Repulsion Embedding for Large Scale Image Localization},
+  author={Liu, Liu and Li, Hongdong and Dai, Yuchao},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
+  year={2019},
+}

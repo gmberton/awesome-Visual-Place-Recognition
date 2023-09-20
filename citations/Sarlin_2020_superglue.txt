@@ -1,0 +1,6 @@
+@inproceedings{Sarlin_2020_superglue,
+  title={SuperGlue: Learning Feature Matching with Graph Neural Networks},
+  author={Paul-Edouard Sarlin and Daniel DeTone and Tomasz Malisiewicz and Andrew Rabinovich},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2020},
+}

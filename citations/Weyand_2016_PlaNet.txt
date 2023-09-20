@@ -1,0 +1,6 @@
+@inproceedings{Weyand_2016_PlaNet,
+  title={PlaNet - Photo Geolocation with Convolutional Neural Networks},
+  author={Tobias Weyand and Ilya Kostrikov and James Philbin},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2016},
+}

@@ -1,0 +1,6 @@
+@article{Mereu_2022_SeqVLAD,
+  title={Learning Sequential Descriptors for Sequence-Based Visual Place Recognition},
+  author={Mereu, Riccardo and Trivigno, Gabriele and Berton, Gabriele and Masone, Carlo and Caputo, Barbara},
+  journal={IEEE Robotics and Automation Letters},
+  year={2022},
+}

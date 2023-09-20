@@ -1,0 +1,9 @@
+@article{Vysotska_2016_sequences_matching,
+  title={Lazy Data Association For Image Sequences Matching Under Substantial Appearance Changes},
+  author={Olga Vysotska and C. Stachniss},
+  journal={IEEE Robotics and Automation Letters},
+  year={2016},
+  volume={1},
+  pages={213-220},
+  url={https://api.semanticscholar.org/CorpusID:14752571}
+}

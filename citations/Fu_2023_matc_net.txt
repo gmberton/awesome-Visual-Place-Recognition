@@ -1,0 +1,6 @@
+@article{Fu_2023_matc_net,
+  title={MATC-Net: Learning compact sequence representation for hierarchical loop closure detection},
+  author={Fuji Fu and Jinfu Yang and Jiahui Zhang and Jiaqi Ma},
+  journal={Engineering Applications of Artificial Intelligence},
+  year={2023},
+}

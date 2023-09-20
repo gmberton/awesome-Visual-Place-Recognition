@@ -1,0 +1,6 @@
+@article{Zaffar_2021_vprbench,
+  title={VPR-Bench: An Open-Source Visual Place Recognition Evaluation Framework with Quantifiable Viewpoint and Appearance Change},
+  author={Zaffar, Mubariz and Garg, Sourav and Milford, Michael and Kooij, Julian and Flynn, David and McDonald-Maier, Klaus and Ehsan, Shoaib},
+  journal={International Journal of Computer Vision (IJCV)},
+  year={2021},
+}

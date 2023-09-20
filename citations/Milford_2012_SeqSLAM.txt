@@ -1,0 +1,6 @@
+@inproceedings{Milford_2012_SeqSLAM,
+  title={SeqSLAM: Visual route-based navigation for sunny summer days and stormy winter nights},
+  author={Milford, Michael J. and Wyeth, Gordon. F.},
+  booktitle={2012 IEEE International Conference on Robotics and Automation},
+  year={2012},
+}

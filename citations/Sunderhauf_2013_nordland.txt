@@ -1,0 +1,6 @@
+@inproceedings{Sunderhauf_2013_nordland,
+  title={Are we there yet? Challenging SeqSLAM on a 3000 km journey across all four seasons},
+  author={N. Suenderhauf and P. Neubert and P. Protzel},
+  booktitle={IEEE International Conference on Robotics and Automation Workshops},
+  year={2013},
+}

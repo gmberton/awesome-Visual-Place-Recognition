@@ -1,0 +1,6 @@
+@inproceedings{Ibrahimi_2021_insideout_vpr,
+  title={Inside Out Visual Place Recognition},
+  author={Sarah Ibrahimi and Nanne van Noord and Tim Alpherts and Marcel Worring},
+  booktitle={British Machine Vision Conference (BMVC)},
+  year={2021},
+}

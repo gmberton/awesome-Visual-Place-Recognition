@@ -1,0 +1,6 @@
+@inproceedings{Barbarani_2023_reranking_benchmark,
+  title={Are Local Features All You Need for Cross-Domain Visual Place Recognition?},
+  author={Barbarani, Giovanni and Mostafa, Mohamad and Bayramov, Hajali and Trivigno, Gabriele and Berton, Gabriele and Masone, Carlo and Caputo, Barbara},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  year={2023},
+}

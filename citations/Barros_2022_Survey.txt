@@ -1,0 +1,6 @@
+@article{Barros_2022_Survey,
+  title={Place recognition survey: An update on deep learning approaches},
+  author={Tiago Barros, Ricardo Pereira, Luís Garrote, Cristiano Premebida, Urbano J. Nunes},
+  journal={ArXiv},
+  year={2022},
+}

@@ -1,0 +1,6 @@
+@inproceedings{Noh_2017_delf,
+  title={Large-Scale Image Retrieval with Attentive Deep Local Features},
+  author={Noh, Hyeonwoo and Araujo, Andre and Sim, Jack and Weyand, Tobias and Han, Bohyung},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
+  year={2017},
+}

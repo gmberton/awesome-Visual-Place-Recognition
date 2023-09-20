@@ -1,0 +1,6 @@
+@inproceedings{Zhu_2023_R2Former,
+  title={R2former: Unified retrieval and reranking transformer for place recognition},
+  author={Zhu, Sijie and Yang, Linjie and Chen, Chen and Shah, Mubarak and Shen, Xiaohui and Wang, Heng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2023},
+}

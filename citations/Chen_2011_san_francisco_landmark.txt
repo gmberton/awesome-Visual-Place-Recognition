@@ -1,0 +1,6 @@
+@inproceedings{Chen_2011_san_francisco_landmark,
+  title={City-scale landmark identification on mobile devices},
+  author={D. M. {Chen} and G. {Baatz} and K. {Köser} and S. S. {Tsai} and R. {Vedantham} and T. {Pylvänäinen} and K. {Roimela} and X. {Chen} and J. {Bach} and M. {Pollefeys} and B. {Girod} and R. {Grzeszczuk},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2011},
+}

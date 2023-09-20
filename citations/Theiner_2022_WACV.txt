@@ -1,0 +1,6 @@
+@inproceedings{Theiner_2022_WACV,
+  title={Interpretable Semantic Photo Geolocation},
+  author={Theiner, Jonas and Muller-Budack, Eric and Ewerth, Ralph},
+  booktitle={IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  year={2022},
+}

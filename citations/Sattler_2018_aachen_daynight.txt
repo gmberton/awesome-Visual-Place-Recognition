@@ -1,0 +1,6 @@
+@inproceedings{Sattler_2018_aachen_daynight,
+  title={Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions},
+  author={T. Sattler and W. Maddern and C. Toft and A. Torii and L. Hammarstrand and E. Stenborg and D. Safari and M. Okutomi and M. Pollefeys and J. Sivic and F. Kahl and T. Pajdla},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2018},
+}

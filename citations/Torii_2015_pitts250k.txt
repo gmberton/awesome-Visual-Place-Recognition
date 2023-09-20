@@ -1,0 +1,6 @@
+@article{Torii_2015_pitts250k,
+  title={Visual Place Recognition with Repetitive Structures},
+  author={A. {Torii} and J. {Sivic} and M. {Okutomi} and T. {Pajdla},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)},
+  year={2015},
+}
