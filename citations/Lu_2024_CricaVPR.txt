@@ -1,0 +1,7 @@
+@InProceedings{Lu_CVPR_2024_CricaVPR,
+    author    = {Feng, Lu and Xiangyuan, Lan and Lijun, Zhang and Dongmei, Jiang and Yaowei, Wang and Chun, Yuan},
+    title     = {CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+}

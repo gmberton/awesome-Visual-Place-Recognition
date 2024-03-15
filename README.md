@@ -33,6 +33,8 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 <details open>
 <summary>Standard VPR</summary>
 
+- [Optimal Transport Aggregation for Visual Place Recognition](https://arxiv.org/abs/2311.15937), Sergio Izquierdo et al., CVPR 2024 | [github](https://github.com/serizba/salad) | [bibtex](./citations/Izquierdo_2024_salad.txt)
+- [CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition](https://arxiv.org/abs/2402.19231), Feng Lu et al., CVPR 2024 | [github](https://github.com/Lu-Feng/CricaVPR) | [bibtex](./citations/Lu_2024_CricaVPR.txt)
 - [EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition](https://arxiv.org/abs/2308.10832), Gabriele Berton et al., ICCV 2023 | [github](https://github.com/gmberton/EigenPlaces) | [bibtex](./citations/Berton_2023_EigenPlaces.txt)
 - [AnyLoc: Towards Universal Visual Place Recognition](https://anyloc.github.io/), Nikhil Keetha et al., ArXiv 2023 | [github](https://github.com/AnyLoc/AnyLoc) | [bibtex](./citations/Keetha_2023_AnyLoc.txt)
 - [MixVPR: Feature Mixing for Visual Place Recognition](https://arxiv.org/abs/2303.02190), Ali-bey Amar et al., WACV 2023 | [github](https://github.com/amaralibey/MixVPR) | [bibtex](./citations/Alibey_2023_mixvpr.txt)
@@ -108,6 +110,7 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 <details open>
 <summary>Re-ranking</summary>
 
+- [Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition](https://arxiv.org/abs/2402.14505), Feng Lu et al., ICLR 2024 | [github](https://github.com/Lu-Feng/SelaVPR) | [bibtex](./citations/Lu_2024_SelaVPR.txt)
 - [Are Local Features All You Need for Cross-Domain Visual Place Recognition?](https://arxiv.org/abs/2304.05887), Giovanni Barbarani et al., CVPRW 2023 | [github](https://github.com/gbarbarani/re-ranking-for-VPR) | [bibtex](./citations/Barbarani_2023_reranking_benchmark.txt)
 - [R2former: Unified retrieval and reranking transformer for place recognition](https://arxiv.org/abs/2304.03410), Sijie Zhu et al., CVPR 2023 | [github](https://github.com/bytedance/R2Former) | [bibtex](./citations/Zhu_2023_R2Former.txt)
 - [TransVPR: Transformer-Based Place Recognition With Multi-Level Attention Aggregation](https://arxiv.org/abs/2201.02001), Wang Ruotong et al., CVPR 2022 | [bibtex](./citations/Wang_2022_TransVPR.txt)
