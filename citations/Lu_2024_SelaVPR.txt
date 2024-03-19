@@ -1,0 +1,6 @@
+@inproceedings{selavpr,
+  title={Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition},
+  author={Lu, Feng and Zhang, Lijun and Lan, Xiangyuan and Dong, Shuting and Wang, Yaowei and Yuan, Chun},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024}
+}
