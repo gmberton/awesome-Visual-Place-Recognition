@@ -98,7 +98,7 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 <summary>Sequence-based VPR</summary>
 
 - [Learning Sequence Descriptor based on Spatio-Temporal Attention for Visual Place Recognition](https://arxiv.org/abs/2305.11467), Fenglin Zhang et al., ArXiv 2023 | [bibtex](./citations/Zhang_2023_SpatioTemporalAttention.txt)
-- [MATC-Net: Learning compact sequence representation for hierarchical loop closure detection](https://www.sciencedirect.com/science/article/abs/pii/S0952197623009181), Fuji Fu et al., 2023 | [bibtex]((./citations/Fu_2023_matc_net.txt)
+- [MATC-Net: Learning compact sequence representation for hierarchical loop closure detection](https://www.sciencedirect.com/science/article/abs/pii/S0952197623009181), Fuji Fu et al., 2023 | [bibtex](./citations/Fu_2023_matc_net.txt)
 - [Learning Sequential Descriptors for Sequence-Based Visual Place Recognition](https://arxiv.org/abs/2207.03868), Riccardo Mereu et al., RAL 2022 | [github](https://github.com/vandal-vpr/vg-transformers) | [bibtex](./citations/Mereu_2022_SeqVLAD.txt)
 - [SeqNet: Learning Descriptors for Sequence-based Hierarchical Place Recognition](https://arxiv.org/abs/2102.11603), Sourav Garg et al., RAL 2021 | [github](https://github.com/oravus/seqNet) | [bibtex](./citations/Garg_2021_SeqNet.txt)
 - [Fast and Memory Efficient Graph Optimization via ICM for Visual Place Recognition](https://www.roboticsproceedings.org/rss17/p091.pdf), Stefan Schubert et al., RSS 2021 | [bibtex](./citations/Schubert_2021_graph_optimization.txt)
