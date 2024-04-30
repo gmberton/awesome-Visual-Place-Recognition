@@ -16,7 +16,7 @@ PRs are very much appreciated.
 
 ## Surveys
 
-- [Visual Place Recognition: A Tutorial](https://ieeexplore.ieee.org/document/10261441), Stefan Schubert et al., RAL 2023 | [bibtex](citations/Schubert_2023_vpr_tutorial.txt)
+- [Visual Place Recognition: A Tutorial](https://ieeexplore.ieee.org/document/10261441), Stefan Schubert et al., RAM 2023 | [bibtex](citations/Schubert_2023_vpr_tutorial.txt)
 - [Place recognition survey: An update on deep learning approaches](https://arxiv.org/abs/2106.10458), Tiago Barros et al., ArXiv 2022 | [bibtex](citations/Barros_2022_Survey.txt)
 - [General Place Recognition Survey: Towards the Real-world Autonomy Age](https://arxiv.org/abs/2209.04497), Peng Yin et al., ArXiv 2022 | [bibtex](citations/Yin_2022_GeneralPR.txt)
 - [A Survey on Deep Visual Place Recognition](https://ieeexplore.ieee.org/document/9336674), Carlo Masone et al., IEEE Access 2021 | [bibtex](citations/Masone_2021_survey.txt)
