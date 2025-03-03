@@ -167,6 +167,7 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 | [Revisiting IM2GPS in the Deep Learning Era](https://arxiv.org/abs/1705.04838) | Vo Nam | ICCV 2017 |  | [BibTex](./citations/Vo_2017_revIm2GPS.txt) |
 | [PlaNet - Photo Geolocation with Convolutional Neural Networks](https://arxiv.org/abs/1602.05314) | Tobias Weyand | ECCV 2016 |  | [BibTex](./citations/Weyand_2016_PlaNet.txt) |
 | [IM2GPS: estimating geographic information from a single image](http://graphics.cs.cmu.edu/projects/im2gps/im2gps.pdf) | James Hays | CVPR 2008 |  | [BibTex](./citations/Hays_2008_im2gps.txt) |
+| [GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization](https://arxiv.org/abs/2309.16020) | Vicente Vivanco Cepeda | NeurIPS 2023 | [GitHub](https://github.com/VicenteVivan/geo-clip) | [BibTex](./citations/Cepeda_2023_GeoCLIP.txt) |
 
 </details>
 
