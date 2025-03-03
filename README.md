@@ -29,7 +29,7 @@ PRs are very much appreciated.
 
 ## Papers
 
-Papers are roughly split into categories, and a paper can (rarely) appear in more than one category.
+Papers are roughly split into categories, and a paper can (rarely) appear in more than one category. Papers are sorted in reverse chronological order within each category.
 
 <details open>
 <summary>Standard VPR</summary>
@@ -159,6 +159,7 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
+| [GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization](https://arxiv.org/abs/2309.16020) | Vicente Vivanco Cepeda | NeurIPS 2023 | [GitHub](https://github.com/VicenteVivan/geo-clip) | [BibTex](./citations/Cepeda_2023_GeoCLIP.txt) |
 | [Interpretable Semantic Photo Geolocation](https://arxiv.org/abs/2104.14995) | Theiner Jonas | WACV 2022 | [GitHub](https://github.com/jtheiner/semantic_geo_partitioning) | [BibTex](./citations/Theiner_2022_WACV.txt) |
 | [Where in the World is this Image? Transformer-based Geo-localization in the Wild](https://arxiv.org/abs/2204.13861) | Pramanick Shraman | ECCV 2022 | [GitHub](https://github.com/ShramanPramanick/Transformer_Based_Geo-localization) | [BibTex](./citations/Pramanick_2022_transformer_geoloc.txt) |
 | [Leveraging EfficientNet and Contrastive Learning for Accurate Global-scale Location Estimation](https://arxiv.org/abs/2105.07645) | Giorgos Kordopatis-Zilos | ICMR 2021 | [GitHub](https://github.com/mever-team/visloc-estimation) | [BibTex](./citations/Kordopatis_2021_EfficientNetGeoloc.txt) |
@@ -167,7 +168,6 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 | [Revisiting IM2GPS in the Deep Learning Era](https://arxiv.org/abs/1705.04838) | Vo Nam | ICCV 2017 |  | [BibTex](./citations/Vo_2017_revIm2GPS.txt) |
 | [PlaNet - Photo Geolocation with Convolutional Neural Networks](https://arxiv.org/abs/1602.05314) | Tobias Weyand | ECCV 2016 |  | [BibTex](./citations/Weyand_2016_PlaNet.txt) |
 | [IM2GPS: estimating geographic information from a single image](http://graphics.cs.cmu.edu/projects/im2gps/im2gps.pdf) | James Hays | CVPR 2008 |  | [BibTex](./citations/Hays_2008_im2gps.txt) |
-| [GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization](https://arxiv.org/abs/2309.16020) | Vicente Vivanco Cepeda | NeurIPS 2023 | [GitHub](https://github.com/VicenteVivan/geo-clip) | [BibTex](./citations/Cepeda_2023_GeoCLIP.txt) |
 
 </details>
 
