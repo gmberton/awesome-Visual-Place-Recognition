@@ -1,0 +1,11 @@
+@inproceedings{Cepeda_2023_GeoCLIP,
+ author = {Vivanco Cepeda, Vicente and Nayak, Gaurav Kumar and Shah, Mubarak},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+ pages = {8690--8701},
+ publisher = {Curran Associates, Inc.},
+ title = {GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/1b57aaddf85ab01a2445a79c9edc1f4b-Paper-Conference.pdf},
+ volume = {36},
+ year = {2023}
+}
