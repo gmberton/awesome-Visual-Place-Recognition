@@ -1,0 +1,10 @@
+@ARTICLE{10906598,
+  author={Hausler, Stephen and Moghadam, Peyman},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Pair-VPR: Place-Aware Pre-Training and Contrastive Pair Classification for Visual Place Recognition With Vision Transformers}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Visual place recognition;Transformers;Decoding;Training;Image reconstruction;Computer vision;Benchmark testing;Image recognition;Data models;Visualization;Deep Learning for Visual Perception;Recognition;Localization},
+  doi={10.1109/LRA.2025.3546512}}

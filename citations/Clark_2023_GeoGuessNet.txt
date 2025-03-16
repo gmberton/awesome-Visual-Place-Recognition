@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10203181,
+  author={Clark, Brandon and Kerrigan, Alec and Kulkarni, Parth Parag and Cepeda, Vicente Vivanco and Shah, Mubarak},
+  booktitle={2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  title={Where We Are and What We're Looking At: Query Based Worldwide Image Geo-localization Using Hierarchies and Scenes}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={23182-23190},
+  keywords={Visualization;Computer vision;Social networking (online);Urban areas;Feature extraction;Transformers;Pattern recognition;Scene analysis and understanding},
+  doi={10.1109/CVPR52729.2023.02220}}

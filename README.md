@@ -36,6 +36,10 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
+| [MegaLoc: One Retrieval to Place Them All](https://arxiv.org/abs/2502.17237) | Gabriele Berton | | [GitHub](https://github.com/gmberton/MegaLoc) | [BibTex](./citations/Berton_2025_MegaLoc.txt)
+| [Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition](https://arxiv.org/abs/2407.02422) | Sergio Izquierdo | ECCV 2024 | [GitHub](https://github.com/serizba/cliquemining) | [BibTex](./citations/Izquierdo_2024_cliquemining.txt)
+| [VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition](https://arxiv.org/abs/2409.19293) | Ahmad Khaliq | ECCV 2024 | [GitHub](https://github.com/Ahmedest61/VLAD-BuFF/) | [BibTex](./citations/Khaliq_2024_vladbuff.txt)
+| [Revisit Anything: Visual Place Recognition via Image Segment Retrieval](https://arxiv.org/abs/2409.18049) | Kartik Garg | ECCV 2024 | [GitHub](https://github.com/AnyLoc/Revisit-Anything) | [Bibtex](./citations/Garg_2024_revisitanything.txt)
 | [Optimal Transport Aggregation for Visual Place Recognition](https://arxiv.org/abs/2311.15937) | Sergio Izquierdo | CVPR 2024 | [GitHub](https://github.com/serizba/salad) | [BibTex](./citations/Izquierdo_2024_salad.txt) |
 | [CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition](https://arxiv.org/abs/2402.19231) | Feng Lu | CVPR 2024 | [GitHub](https://github.com/Lu-Feng/CricaVPR) | [BibTex](./citations/Lu_2024_CricaVPR.txt) |
 | [EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition](https://arxiv.org/abs/2308.10832) | Gabriele Berton | ICCV 2023 | [GitHub](https://github.com/gmberton/EigenPlaces) | [BibTex](./citations/Berton_2023_EigenPlaces.txt) |
@@ -121,6 +125,8 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
+| [SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition](https://arxiv.org/abs/2502.16601) | Feng Lu | | [GitHub](https://github.com/Lu-Feng/SelaVPR) | [BibTex](./citations/Lu_2025_SelaVPRpp.txt) |
+| [Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers](http://arxiv.org/abs/2410.06614) | Stephen Hausler | IEEE RA-L 2025 | [GitHub](https://github.com/csiro-robotics/Pair-VPR) | [BibTex](./citations/Hausler_2025_PairVPR.txt) | [BibTex](./citations/Hausler_2025_PairVPR.txt)
 | [Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition](https://arxiv.org/abs/2402.14505) | Feng Lu | ICLR 2024 | [GitHub](https://github.com/Lu-Feng/SelaVPR) | [BibTex](./citations/Lu_2024_SelaVPR.txt) |
 | [Are Local Features All You Need for Cross-Domain Visual Place Recognition?](https://arxiv.org/abs/2304.05887) | Giovanni Barbarani | CVPRW 2023 | [GitHub](https://github.com/gbarbarani/re-ranking-for-VPR) | [BibTex](./citations/Barbarani_2023_reranking_benchmark.txt) |
 | [R2former: Unified retrieval and reranking transformer for place recognition](https://arxiv.org/abs/2304.03410) | Sijie Zhu | CVPR 2023 | [GitHub](https://github.com/bytedance/R2Former) | [BibTex](./citations/Zhu_2023_R2Former.txt) |
@@ -159,7 +165,10 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
+| [PIGEON: Predicting Image Geolocations](https://arxiv.org/abs/2307.05845) | Lukas Haas | CVPR 2024 | [GitHub](https://github.com/LukasHaas/PIGEON) | [BibTex](./citations/Haas_2024_pigeon.txt) |
+| [OpenStreetView-5M: The Many Roads to Global Visual Geolocation](https://arxiv.org/abs/2404.18873) | Guillaume Astruc | CVPR 2024 | [GitHub](https://github.com/gastruc/osv5m) | [BibTex](./citations/Gastruc_2024_OSV5M.txt) |
 | [GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization](https://arxiv.org/abs/2309.16020) | Vicente Vivanco Cepeda | NeurIPS 2023 | [GitHub](https://github.com/VicenteVivan/geo-clip) | [BibTex](./citations/Cepeda_2023_GeoCLIP.txt) |
+| [Where We Are and What We're Looking At: Query Based Worldwide Image Geo-localization Using Hierarchies and Scenes](https://arxiv.org/abs/2303.04249) | Brandon Clark | CVPR 2023 | [GitHub](https://github.com/AHKerrigan/GeoGuessNet) | [BibTex](./citations/Clark_2023_GeoGuessNet.txt) |
 | [Interpretable Semantic Photo Geolocation](https://arxiv.org/abs/2104.14995) | Theiner Jonas | WACV 2022 | [GitHub](https://github.com/jtheiner/semantic_geo_partitioning) | [BibTex](./citations/Theiner_2022_WACV.txt) |
 | [Where in the World is this Image? Transformer-based Geo-localization in the Wild](https://arxiv.org/abs/2204.13861) | Pramanick Shraman | ECCV 2022 | [GitHub](https://github.com/ShramanPramanick/Transformer_Based_Geo-localization) | [BibTex](./citations/Pramanick_2022_transformer_geoloc.txt) |
 | [Leveraging EfficientNet and Contrastive Learning for Accurate Global-scale Location Estimation](https://arxiv.org/abs/2105.07645) | Giorgos Kordopatis-Zilos | ICMR 2021 | [GitHub](https://github.com/mever-team/visloc-estimation) | [BibTex](./citations/Kordopatis_2021_EfficientNetGeoloc.txt) |
@@ -177,6 +186,7 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
+| [MeshVPR: Citywide Visual Place Recognition Using 3D Meshes](https://arxiv.org/abs/2406.02776) | Gabriele Berton | ECCV 2024 | [GitHub](https://github.com/gmberton/MeshVPR) | [Bibtex](./citations/Berton_2024_meshvpr.txt)
 | [Divide&Classify: Fine-Grained Classification for City-Wide Visual Geo-localization](https://arxiv.org/abs/2307.08417) | Gabriele Trivigno | ICCV 2023 | [GitHub](https://github.com/ga1i13o/Divide-and-Classify) | [BibTex](./citations/Trivigno_2023_DivideClassify.txt) |
 | [Unifying Visual Localization and Scene Recognition for People With Visual Impairment](https://www.researchgate.net/publication/340327129_Unifying_Visual_Localization_and_Scene_Recognition_for_People_With_Visual_Impairment) | R. Cheng | IEEE Access 2020 |  | [BibTex](./citations/Cheng_2020_Unifying.txt) |
 | [Scalable Place Recognition Under Appearance Change for Autonomous Driving](https://arxiv.org/abs/1908.00178) | A. D. Doan | ICCV 2019 |  | [BibTex](./citations/Doan_2019_scalable.txt) |

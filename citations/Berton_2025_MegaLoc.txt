@@ -1,0 +1,9 @@
+@misc{berton2025megalocretrievalplace,
+      title={MegaLoc: One Retrieval to Place Them All}, 
+      author={Gabriele Berton and Carlo Masone},
+      year={2025},
+      eprint={2502.17237},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.17237}, 
+}
