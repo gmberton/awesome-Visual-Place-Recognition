@@ -1,4 +1,4 @@
-@ARTICLE{10906598,
+@ARTICLE{Hausler_2025_PairVPR,
   author={Hausler, Stephen and Moghadam, Peyman},
   journal={IEEE Robotics and Automation Letters}, 
   title={Pair-VPR: Place-Aware Pre-Training and Contrastive Pair Classification for Visual Place Recognition With Vision Transformers}, 

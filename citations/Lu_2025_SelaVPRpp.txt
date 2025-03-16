@@ -1,4 +1,4 @@
-@misc{lu2025selavprseamlessadaptationfoundation,
+@misc{Lu_2025_SelaVPRpp,
       title={SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition}, 
       author={Feng Lu and Tong Jin and Xiangyuan Lan and Lijun Zhang and Yunpeng Liu and Yaowei Wang and Chun Yuan},
       year={2025},

@@ -1,4 +1,4 @@
-@INPROCEEDINGS{10656197,
+@INPROCEEDINGS{Haas_2024_pigeon,
   author={Haas, Lukas and Skreta, Michal and Alberti, Silas and Finn, Chelsea},
   booktitle={2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
   title={PIGEON: Predicting Image Geolocations}, 

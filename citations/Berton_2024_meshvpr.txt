@@ -1,4 +1,4 @@
-@InProceedings{10.1007/978-3-031-72904-1_19,
+@InProceedings{Berton_2024_meshvpr,
 author="Berton, Gabriele
 and Junglas, Lorenz
 and Zaccone, Riccardo

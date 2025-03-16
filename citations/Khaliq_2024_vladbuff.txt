@@ -1,4 +1,4 @@
-@InProceedings{10.1007/978-3-031-72784-9_25,
+@InProceedings{Khaliq_2024_vladbuff,
 author="Khaliq, Ahmad
 and Xu, Ming
 and Hausler, Stephen

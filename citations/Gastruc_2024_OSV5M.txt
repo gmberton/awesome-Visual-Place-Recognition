@@ -1,4 +1,4 @@
-@INPROCEEDINGS{10657636,
+@INPROCEEDINGS{Gastruc_2024_OSV5M,
   author={Astruc, Guillaume and Dufour, Nicolas and Siglidis, Ioannis and Aronssohn, Constantin and Bouia, Nacim and Fu, Stephanie and Loiseau, Romain and Nguyen, Van Nguyen and Raude, Charles and Vincent, Elliot and Xu, Lintao and Zhou, Hongyu and Landrieu, Loic},
   booktitle={2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
   title={OpenStreetView-5M: The Many Roads to Global Visual Geolocation}, 

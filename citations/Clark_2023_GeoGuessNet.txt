@@ -1,4 +1,4 @@
-@INPROCEEDINGS{10203181,
+@INPROCEEDINGS{Clark_2023_GeoGuessNet,
   author={Clark, Brandon and Kerrigan, Alec and Kulkarni, Parth Parag and Cepeda, Vicente Vivanco and Shah, Mubarak},
   booktitle={2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
   title={Where We Are and What We're Looking At: Query Based Worldwide Image Geo-localization Using Hierarchies and Scenes}, 

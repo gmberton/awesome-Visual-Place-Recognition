@@ -1,4 +1,4 @@
-@misc{berton2025megalocretrievalplace,
+@misc{Berton_2025_MegaLoc,
       title={MegaLoc: One Retrieval to Place Them All}, 
       author={Gabriele Berton and Carlo Masone},
       year={2025},

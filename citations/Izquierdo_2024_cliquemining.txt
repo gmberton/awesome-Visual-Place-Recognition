@@ -1,4 +1,4 @@
-@InProceedings{10.1007/978-3-031-73464-9_15,
+@InProceedings{Izquierdo_2024_cliquemining,
 author="Izquierdo, Sergio
 and Civera, Javier",
 editor="Leonardis, Ale{\v{s}}

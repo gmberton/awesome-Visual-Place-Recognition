@@ -1,4 +1,4 @@
-@InProceedings{10.1007/978-3-031-73113-6_19,
+@InProceedings{Garg_2024_revisitanything,
 author="Garg, Kartik
 and Puligilla, Sai Shubodh
 and Kolathaya, Shishir
