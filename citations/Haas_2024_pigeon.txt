@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Haas_2024_pigeon,
+  author={Haas, Lukas and Skreta, Michal and Alberti, Silas and Finn, Chelsea},
+  booktitle={2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  title={PIGEON: Predicting Image Geolocations}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={12893-12902},
+  keywords={Computer vision;Accuracy;Geology;Semantics;Games;Benchmark testing;Internet;Image Geolocalization;Visual Place Recognition;Photo Geolocalization;Computer Vision;Semantic Geocells;Multi-Task Pretraining;Haversine;Location Refinement;Clustering;Voronoi;Multi-Modal;GeoGuessr;Retrieval;Blind Experiment;Multi-Task;Pretraining;CLIP},
+  doi={10.1109/CVPR52733.2024.01225}}

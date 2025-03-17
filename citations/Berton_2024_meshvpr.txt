@@ -1,0 +1,23 @@
+@InProceedings{Berton_2024_meshvpr,
+author="Berton, Gabriele
+and Junglas, Lorenz
+and Zaccone, Riccardo
+and Pollok, Thomas
+and Caputo, Barbara
+and Masone, Carlo",
+editor="Leonardis, Ale{\v{s}}
+and Ricci, Elisa
+and Roth, Stefan
+and Russakovsky, Olga
+and Sattler, Torsten
+and Varol, G{\"u}l",
+title="MeshVPR: Citywide Visual Place Recognition Using 3D Meshes",
+booktitle="Computer Vision -- ECCV 2024",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="321--339",
+abstract="Mesh-based scene representation offers a promising direction for simplifying large-scale hierarchical visual localization pipelines, combining a visual place recognition step based on global features (retrieval) and a visual localization step based on local features. While existing work demonstrates the viability of meshes for visual localization, the impact of using synthetic databases rendered from them in visual place recognition remains largely unexplored. In this work we investigate using dense 3D textured meshes for large-scale Visual Place Recognition (VPR). We identify a significant performance drop when using synthetic mesh-based image databases compared to real-world images for retrieval. To address this, we propose MeshVPR, a novel VPR pipeline that utilizes a lightweight features alignment framework to bridge the gap between real-world and synthetic domains. MeshVPR leverages pre-trained VPR models and is efficient and scalable for city-wide deployments. We introduce novel datasets with freely available 3D meshes and manually collected queries from Berlin, Paris, and Melbourne. Extensive evaluations demonstrate that MeshVPR achieves competitive performance with standard VPR pipelines, paving the way for mesh-based localization systems. Data, code, and interactive visualizations are available at https://meshvpr.github.io/.",
+isbn="978-3-031-72904-1"
+}
+
