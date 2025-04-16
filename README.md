@@ -95,14 +95,10 @@ Papers are roughly split into categories, and a paper can (rarely) appear in mor
 
 | Title | First Author | Venue | Github | Bibtex |
 |---|---|---|---|---|
-| [To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition
-](https://arxiv.org/abs/2504.06116) | Davide Sferrazza | ArXiv 2025 |  | [BibTex](./citations/Sferrazza_2025_match.txt) |
-| [On the Estimation of Image-matching Uncertainty in Visual Place Recognition
-](https://arxiv.org/abs/2404.00546) | Mubariz Zaffar | CVPR 2024 |  | [BibTex](./citations/Zaffar_2024_estimation.txt) |
-| [STUN: Self-Teaching Uncertainty Estimation for Place Recognition
-](https://arxiv.org/abs/2203.01851) | Kaiwen Cai | IROS 2022 |  | [BibTex](./citations/Cai_2022_stun.txt) |
-| [Bayesian Triplet Loss: Uncertainty Quantification in Image Retrieval
-](https://arxiv.org/abs/2011.12663) | Frederik Warburg | ICCV 2021 |  | [BibTex](./citations/Warburg_2021_bayesian.txt) |
+| [To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition](https://arxiv.org/abs/2504.06116) | Davide Sferrazza | ArXiv 2025 |  | [BibTex](./citations/Sferrazza_2025_match.txt) |
+| [On the Estimation of Image-matching Uncertainty in Visual Place Recognition](https://arxiv.org/abs/2404.00546) | Mubariz Zaffar | CVPR 2024 |  | [BibTex](./citations/Zaffar_2024_estimation.txt) |
+| [STUN: Self-Teaching Uncertainty Estimation for Place Recognition](https://arxiv.org/abs/2203.01851) | Kaiwen Cai | IROS 2022 |  | [BibTex](./citations/Cai_2022_stun.txt) |
+| [Bayesian Triplet Loss: Uncertainty Quantification in Image Retrieval](https://arxiv.org/abs/2011.12663) | Frederik Warburg | ICCV 2021 |  | [BibTex](./citations/Warburg_2021_bayesian.txt) |
 
 
 </details>
