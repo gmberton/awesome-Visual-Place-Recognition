@@ -1,0 +1,6 @@
+@article{sferrazza2025match,
+  title={To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition},
+  author={Sferrazza, Davide and Berton, Gabriele and Trivigno, Gabriele and Masone, Carlo},
+  journal={arXiv preprint arXiv:2504.06116},
+  year={2025}
+}

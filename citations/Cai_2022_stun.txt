@@ -1,0 +1,8 @@
+@inproceedings{cai2022stun,
+  title={STUN: Self-teaching uncertainty estimation for place recognition},
+  author={Cai, Kaiwen and Lu, Chris Xiaoxuan and Huang, Xiaowei},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={6614--6621},
+  year={2022},
+  organization={IEEE}
+}

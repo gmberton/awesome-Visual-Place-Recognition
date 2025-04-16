@@ -1,0 +1,7 @@
+@inproceedings{zaffar2024estimation,
+  title={On the estimation of image-matching uncertainty in visual place recognition},
+  author={Zaffar, Mubariz and Nan, Liangliang and Kooij, Julian FP},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={17743--17753},
+  year={2024}
+}

@@ -1,0 +1,7 @@
+@inproceedings{warburg2021bayesian,
+  title={Bayesian triplet loss: Uncertainty quantification in image retrieval},
+  author={Warburg, Frederik and J{\o}rgensen, Martin and Civera, Javier and Hauberg, S{\o}ren},
+  booktitle={Proceedings of the IEEE/CVF International conference on Computer Vision},
+  pages={12158--12168},
+  year={2021}
+}
